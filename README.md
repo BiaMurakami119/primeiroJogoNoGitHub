@@ -1,1 +1,3 @@
 # primeiroJogoNoGitHub
+
+Esse jogo foi feito em 2022, com a turma da Byjus.... 
